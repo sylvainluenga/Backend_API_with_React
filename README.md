@@ -2,7 +2,7 @@
     React exercice
 
     What need to be done to make a Get Request
-==================================================== 
+
 1, Install the axios package
 2, create the List component
 3, Create a stage to hold the List items
@@ -11,7 +11,7 @@
 
 
     What need to be done to make a Post Request
-================================================
+
 1, Create the Form Component
 2, Create the States to hold that form of data
 3, Create the form withi input elements
