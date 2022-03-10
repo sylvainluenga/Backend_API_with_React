@@ -37,5 +37,6 @@ class postList extends Component {
 
 }
 
+
 export default postList
 
