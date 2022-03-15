@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import axios from 'axios'
 
 
+
 class PostForm extends Component {
 
     constructor(props) {
@@ -29,7 +30,7 @@ class PostForm extends Component {
     }
 
     render(){
-        const {userID, title, body} = this.state
+        const {results, title, body} = this.state
         return(
             <div>
                 <form onSubmit={this.handleSubmit}> 
