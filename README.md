@@ -12,8 +12,8 @@
 
     What need to be done to make a Post Request
 
-1, Create the Form Component
-2, Create the States to hold that form of data
-3, Create the form withi input elements
-4, Write the ChangeHandler method
-5, Write The submitHandler method
+1, Create the Form Component </br>
+2, Create the States to hold that form of data </br>
+3, Create the form withi input elements </br>
+4, Write the ChangeHandler method </br>
+5, Write The submitHandler method </br>
