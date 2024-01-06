@@ -12,7 +12,7 @@ class PostForm extends Component {
          body:''
       }
     }
-
+ 
     handleChange =(e) =>{
         this.setState({
             [e.target.name]: e.target.value
